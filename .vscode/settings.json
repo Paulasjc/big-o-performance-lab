@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "java-performance-test",
+        "01-search-comparison",
+        "02.duplicate-detection"
+    ]
+}
